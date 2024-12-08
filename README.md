@@ -49,7 +49,7 @@ Dataset is in the data/iam folder in form of lines and its reqpective text  file
 ## Model Architecture
 
 
-<img src="Main Project\public\assets\imgs\model_architecture.png" width="900px" alt="method">
+<img src="FrontEnd Code\public\assets\imgs\model_architecture.png" width="900px" alt="method">
 
 ## Model Training
 
@@ -59,11 +59,11 @@ All the commands for training the models and producing the same results is given
 
 Output for training :
 
-<img src="Main Project\public\assets\imgs\training.png" width="900px" alt="method">
+<img src="FrontEnd Code\public\assets\imgs\training.png" width="900px" alt="method">
 
 Output for test :
 
-<img src="Main Project\public\assets\imgs\test.png" width="900px" alt="method">
+<img src="FrontEnd Code\public\assets\imgs\test.png" width="900px" alt="method">
 
 ## Summarization Pipeline
 1.	Extract text from different formats (image, PDF, docx, txt).
@@ -78,11 +78,11 @@ Output for test :
 ## Project Snapshots
 Homepage Snapshot
 
-<img src="Main Project\public\assets\imgs\home.png" width="900px" alt="method">
+<img src="FrontEnd Code\public\assets\imgs\home.png" width="900px" alt="method">
 
 InktoInsight Tab Snapshot
 
-<img src="Main Project\public\assets\imgs\inktoinsight.png" width="900px" alt="method">
+<img src="FrontEnd Code\public\assets\imgs\inktoinsight.png" width="900px" alt="method">
 
 ## Acknowledgement
 
